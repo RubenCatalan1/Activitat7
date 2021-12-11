@@ -3,8 +3,8 @@ package ed.ruben;
 public class ImprimirNumeros {
 
 	public static void main(String[] args) {
-		for (int i = 1; i < 21; i++) {
-			System.out.print(i + " ");
+		for (int i = 3; i < 23; i++) {
+			System.out.print(i + "-");
 		}
 	}
 
